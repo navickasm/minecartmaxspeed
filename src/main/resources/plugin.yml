@@ -1,0 +1,5 @@
+name: minecartmaxspeed
+version: '1.0'
+main: dev.navickasm.minecartmaxspeed.Main
+api-version: '1.21'
+author: 'Mack Navickas'
